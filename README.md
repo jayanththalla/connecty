@@ -1,6 +1,6 @@
-# "Connect" - Global Real-time Messaging App
+# "Connecty" - Global Real-time Messaging App
 
-"Connect" is a robust, full-stack messaging application designed to provide a seamless, WhatsApp-like communication experience. Built with a modern technical stack, it handles real-time messaging, complex presence states, and global scalability with ease.
+"Connecty" is a robust, full-stack messaging application designed to provide a seamless, WhatsApp-like communication experience. Built with a modern technical stack, it handles real-time messaging, complex presence states, and global scalability with ease.
 
 ## 🚀 Objective
 The goal of this project is to implement a high-performance messaging system that addresses:
